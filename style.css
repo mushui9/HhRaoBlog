@@ -1,0 +1,54 @@
+/*
+Theme Name: rao's blog
+Theme URI: http://myrao.sinaapp.com/
+Description: ¼òµ¥
+Author: rao
+Version: 1.0
+License:
+License URI:
+Tags: 
+*/
+body {
+	color: #000;
+	background: #ffffff;
+	width:800px;
+	margin:80px auto 0;
+	font-family: Georgia, Palatino, serif;
+}
+a{
+	color:#888888; text-decoration:none;
+}
+a:hover{TEXT-DECORATION:underline}
+textarea{
+	width:710px;height:80px;font-size:20px;
+}
+#button{
+	width:80px;height:80px;text-align:center;float:right;font-size:10px;
+}
+#header{ 
+	width:800px;height:80px;position:fixed; background:#ffffff;
+	_position:absolute;_top:expression(eval(document.documentElement.scrollTop));
+	z-index:1000;top:0; 
+}
+#logo{
+    float:left;text-align:left;
+}
+.menu{
+	float:right;text-align:right;margin-top:10px;
+}
+.content{
+	font-size:20px;margin:0 0 20px 0;
+}
+table{
+	width:750px;text-align:center;
+}
+td{
+	font-size:20px;
+}
+select{
+	font-size:20px;
+}
+input{
+	font-size:20px;
+}
+	
